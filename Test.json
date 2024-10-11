@@ -1,0 +1,30 @@
+{
+   "people": [
+      {
+         "firstName": "Wasiu",
+         "lastName": "Atanda",
+         "gender": "male",
+         "age": 20,
+         "number": "08102344943"
+      },
+      {
+         "firstName": "Joseph",
+         "lastName": "Adura",
+         "gender": "male",
+         "age": 23,
+         "number": [
+            {
+               "test": 10,
+               "test2": 15
+            }
+         ]
+      },
+      {
+         "firstName": "Vorah",
+         "lastName": "Imole",
+         "gender": "female",
+         "age": 24,
+         "number": "08056394123"
+      }
+   ]
+}
